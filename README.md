@@ -1,0 +1,2 @@
+# CSGOParser
+CSGO Demo parser
